@@ -45,8 +45,8 @@
   
 <br>
 
-### Help me improving above stats!
+<h3 Help me improving above stats! /h3>
 <br>
-## Show some ❤️ by starring some of the repositories!
+<h2 ## Show some ❤️ by starring some of the repositories! /h2>
 
 </div>
