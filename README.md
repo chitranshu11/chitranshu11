@@ -1,4 +1,4 @@
-## Hi there, I'm [Chitranshu Gour!](https://chitranshu11.github.io) 👋
+## Hi there, I'm [Chitranshu Gour!](https://chitranshugour.netlify.app) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshu11&label=Views&color=blue&style=plastic" alt="chitranshu11" /> </p>
 
