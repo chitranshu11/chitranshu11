@@ -30,7 +30,7 @@
 - ⚡ Fun fact: I like playing cricket and watching tv/web series.
 
 [![Linkedin: chitranshugour](https://img.shields.io/badge/-chitranshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chitranshugour/)](https://www.linkedin.com/in/chitranshugour/)
-<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-chitranshu.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) --!>
+[![website](https://img.shields.io/badge/PortfolioWebsite-chitranshu.live-2648ff?style=flat-square&logo=google-chrome)](https://chitranshugour.netlify.app/)
 
 
 
