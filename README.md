@@ -22,9 +22,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Android]
+- 🔭 I’m currently working on [Flutter]
 - 🌱 I’m currently learning more about Full Stack Development(Java).
-- 👯 I’m looking to collaborate on Android and Full Stack Project.
+- 👯 I’m looking to collaborate on Flutter and Full Stack Project.
 - 📫 How to reach me: [LinkedIn](https://wwww.linkedin.com/in/chitranshugour) , Email(chitranshugour67@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like playing cricket and watching tv/web series.
